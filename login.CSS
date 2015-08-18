@@ -1,0 +1,63 @@
+.login{
+	
+	height: 643px;
+	width: 100%;
+	vertical-align: middle;
+	text-align: center;
+}
+.loginform{
+	margin-top: 30px;
+}
+body{
+	background-color: #ff4545;
+}
+input{
+	color: #ff4545;
+	text-align: center;
+	font-family: 'Agency FB',sans-serif;
+	font-size: 2em;
+	width: 390px;
+	height: 50px;
+	border: 3px solid #fff;
+	border-radius: 4px;
+	margin-bottom: 20px;
+	}
+	::-webkit-input-placeholder {
+   color: #ff4545;
+}
+.send{
+	background-color: #fff;
+	width: 135px;
+}
+.send:hover{
+	background-color: #ff4545;
+	color:#fff;
+}
+.send1{
+	background-color: #fff;
+	width: 170px;
+}
+.send1:hover{
+	background-color: #ff4545;
+	color:#fff;
+}
+img {
+	margin-top: 50px;
+	width: 120px;
+	height: 110px;
+}
+h1{
+	font-family: 'Agency FB',sans-serif;
+	font-size: 5em;
+	color:#fff;
+}
+.FORGOTE-PASSWORD{
+	font-family: 'Agency FB',sans-serif;
+	font-size: 1.5em;
+	color:#fff;
+}
+.FORGOTE-PASSWORD:hover{
+	font-family: 'Agency FB',sans-serif;
+	font-size: 1.5em;
+	color:#fff;
+}
