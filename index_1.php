@@ -40,10 +40,6 @@
     <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <a class="navbar-brand"  href="#page-top" title="punchit.io_logo">
-                <img style="max-width:100px; margin-top: -7px; max-height: 250%" src="img/punch_logo.png">
-            </a>
 
             <div class="navbar-header navbar-brand page-scroll">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"
@@ -53,6 +49,10 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <a class="navbar-brand page-scroll"  href="#page-top" title="punchit.io_logo">
+                    <img style="margin-top: -7px; width: 90px; height: 78px;" src="img/punch_logo.png">
+                </a>
 
             </div>
  
@@ -98,7 +98,7 @@
     <section id="services" style="background-color: rgb(248, 248, 248);">
         <div class="container">
             <div class="row">
-                <div class="col-sm-6 col-md-6 col-sm-push-6" style="margin-top: -75px;">
+                <div class="col-sm-6 col-md-6 col-sm-push-6" style="margin-top: -40px;">
                     <div class="title">
                         <h2>Glimpse Of Idea</h2>
                     </div>
